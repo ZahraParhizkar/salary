@@ -1,19 +1,6 @@
-# Streamlit app dependencies
-streamlit==1.51.0
-
-# Core data science libraries
-numpy==1.26.4
-pandas==2.1.4
-scikit-learn==1.4.2
-joblib==1.3.2
-
-# Optional libraries (اگر از matplotlib/seaborn برای visualization استفاده می‌کنید)
-matplotlib==3.7.5
-seaborn==0.13.2
-
-# اگر مدل GradientBoosting یا XGBoost دارید
-xgboost==1.6.2
-lightgbm==4.6.0
-
-# برای پردازش دسته‌بندی‌ها
-category_encoders==2.7.0
+streamlit
+pandas
+numpy
+scikit-learn==1.5.2
+joblib
+xgboost
